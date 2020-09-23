@@ -1,0 +1,1 @@
+Games <Address>D:\Games<Split>Music <Address>D:\Music\<Split>Program Files <Address>C:\Program Files<Split>Softwares <Address>D:\Softwares<Split>System32 <Address>c:\windows\system32<Split>
